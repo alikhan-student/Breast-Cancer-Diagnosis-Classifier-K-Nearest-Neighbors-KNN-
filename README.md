@@ -1,0 +1,2 @@
+# Breast Cancer Diagnosis Classifier — K-Nearest Neighbors (KNN)
+A machine learning project that classifies breast tumors as Malignant (M) or Benign (B) using the K-Nearest Neighbors algorithm on the Wisconsin Breast Cancer Diagnostic dataset. The project includes data preprocessing with feature scaling, hyperparameter tuning across K=1–20 to find the optimal number of neighbors, multi-format accuracy visualizations (pie, bar, scatter, line charts), and a 2D decision boundary plot to visually interpret how KNN separates the two classes.
